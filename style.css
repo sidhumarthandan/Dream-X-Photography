@@ -1,0 +1,477 @@
+html,
+body{
+width:100%;
+overflow-x:hidden;
+}
+
+#title{
+    background-color: #FFDA77;
+}
+#wedding-section{
+    background-color: #F3950D;
+}
+#fashion-section{
+    background-color: #EA99D5;
+}
+#portrait-section{
+    background-color: #2666CF;
+}
+#contact{
+    background-color: #C8C6A7;
+}
+#footer{
+    background-color: #C8C6A7;
+    text-align: center;
+}
+.initial h1{
+    font-size: 5.1vw;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+}
+.initial h2{
+    text-align: center;
+    padding-left: 350px;
+    font-size: 4vw;
+    font-family: 'Lobster Two', cursive;
+}
+.image-text{
+    font-size: 38px;
+    font-family: 'Lobster Two', cursive;
+    padding-top: 2vw;
+    text-align: center;
+}
+.navbar-brand{
+    margin: 0 1.5rem;
+}
+.carousel-inner{
+    margin: 3% 25%;
+}
+.carousel-image{
+    height: 50%;
+    width: 55%;
+}
+.initial{
+    font-size: 4rem;    
+}
+.first-image{
+    padding: 5% 14%;
+}
+.first-image p{
+    font-size: 22px;
+    
+}
+.wedding-image{
+    height: 200px;
+    width: 200px;
+}
+.fashion-image{
+    height: 200px;
+    width: 200px;
+}
+.portrait-image{
+    height: 200px;
+    width: 200px;
+}
+
+.bridal-image{
+    width: 450px;
+    height: 500px;
+    margin: 4% 6%;
+    display: flex;
+}
+#wedding-section h1{
+    font-size: 3rem;
+    font-family: 'Aladin', cursive;
+    padding: 2rem 0 0 1rem;
+}
+#wedding-section h2{
+    font-size: 3rem;
+    font-family: 'Lobster Two', cursive;
+    padding-top: 6rem;
+    padding-right: 2rem;
+    border-right: 100px;
+
+}
+.marriage{
+    font-size: 2.2rem;
+    font-family: 'Cardo', serif;
+    font-weight: 700;
+    padding-top: 1rem;
+}
+.row{
+    font-size:40px ;
+    display: flex;
+    
+}
+.book{
+    font-family: 'Castoro', serif;
+    font-size: 2rem;
+    text-align: center;
+}
+.grab{
+    font-family: 'Rancho', cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+.wedding-button{
+    margin: 3% 40%;
+    white-space: nowrap;
+}
+#fashion-section h1{
+    font-size: 3rem;
+    font-family: 'Aladin', cursive;
+    padding: 2rem 0 0 1rem;
+}
+.fashion-images{
+    display: flex;
+}
+.image-deck{
+    height: 20vw;
+    width: 14vw;
+}
+.fashion-pic1{
+    padding: 1rem 0.2rem 10rem ;
+}
+.fashion-pic2{
+    padding: 3rem 0.2rem 7rem;
+}
+.fashion-pic3{
+    padding: 6rem 0.2rem 4rem;
+}
+.fashion-pic4{
+    padding: 8rem 0.2rem 1rem;
+}
+.fashion-pic5{
+    padding: 10rem 0.2rem 3rem;
+}
+.fashion-pic6{
+    padding: 12rem 1rem 1rem 0.2rem;
+}
+.fashion-text{
+    text-align: center;
+}
+.fashioned{
+    font-family: 'Lobster Two', cursive;
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+.fashion-shoot{
+    font-family: 'Rancho', cursive;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+.fashion-button{
+    margin-bottom: 20px;
+}
+#portrait-section p{
+    padding-top: 2rem;
+    font-family: 'Vollkorn', serif;
+    font-size: 2rem;
+    font-weight: 400;
+    text-align: center;
+}
+#portrait-section h1{
+    font-family: 'Aladin', cursive;
+    font-size: 3rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+.portrait1{
+    height: 400px;
+    width: 270px;
+    
+    margin: 2rem;
+}
+.portrait2{
+    height: 400px;
+    width: 270px;
+    
+    margin: 2rem;
+}
+.portrait3{
+    height: 400px;
+    width: 270px;
+    
+    margin: 2rem;
+}
+.portrait-text{
+    text-align: right;
+}
+.dreamx{
+    font-family: 'Lobster Two', cursive;
+    font-size: 3rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.august{
+    font-family: 'Vollkorn', serif;
+    font-size: 40px;
+    padding-top: 2rem;
+    text-align: right;
+    padding-right: 150px;
+}
+.preorder{
+    font-family: 'Vollkorn', serif;
+    font-size: 2rem;
+    text-align: right;
+    padding-right: 20px;
+}
+.portrait-button{
+    margin-right: 280px;
+    margin-bottom: 25px;
+}
+#contact h1{
+    font-family: 'Aladin', cursive;
+    font-size: 3rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+.quirky{
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+    text-align: left;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-left: 4rem;
+}
+.create{
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+    text-align: right;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+}
+.contact-text{
+    font-family: 'Bona Nova', serif;
+    font-size: 2rem;
+    text-align: right;
+}
+.app{
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+    padding-left: 2rem; 
+    padding-top: 1rem;
+}
+.download-button1{
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+.download-button2{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.social-icon{
+    padding: 4rem 2rem 1rem 2.5rem;
+    color: #2666CF;
+    
+}
+.social-icon:hover{
+    color: black;
+}
+.copyright{
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+}
+@media (max-width: 991px) {
+    .burger{
+        margin-right: 1rem;
+    }
+    .nav-wedding{
+        margin-left: 1.6rem;
+    }
+    .nav-fashion{
+        margin-left: 1.6rem;
+    }
+    .nav-portrait{
+        margin-left: 1.6rem;
+    }
+    .nav-contact{
+        margin-left: 1.6rem;
+    }
+    
+}
+@media (max-width: 991px) {
+    .portrait-title-pic{
+        margin-left: 180px;
+        margin-right: 200px;
+    }    
+}
+
+@media (max-width: 767px) {
+    .wedding-title-pic{
+        margin-left: 170px;
+    } 
+    .fashion-title-pic{
+        margin-left: 170px;
+    }
+    .portrait-title-pic{
+        margin-left: 170px;
+    }
+}
+@media (max-width: 650px) {
+    .initial h1,h2{
+        font-size: 50%;
+    }
+    .wedding-title-pic{
+        margin-left: 80px; 
+    }
+    .fashion-title-pic{
+        margin-left: 80px;
+    }
+    .portrait-title-pic{
+        margin-left: 80px;
+    }
+       
+}
+@media (max-width:991px) {
+    .marriage-heading{
+        margin-left: 50px;
+    }   
+    .marriage{
+        margin-left: 50px;
+        margin-bottom: 30px;
+    } 
+    .book{
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 950px) {
+    .marriage-heading{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .marriage{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+    .book{
+        padding-bottom: 30px;
+    }
+}
+@media (max-width: 500px) {
+    .bridal-image{
+        padding-right: 1rem;
+    }
+    
+}
+@media (max-width: 991px) {
+    .fashion-pic1{
+        padding: 2rem 2rem 2rem 8rem;
+    }
+    .fashion-pic2{
+        padding: 4.5rem 0.2rem 2rem 4rem;
+    }
+    .fashion-pic3{
+        padding: 7.5rem 0rem 2rem 0rem;
+    }
+    .fashion-pic4{
+        padding: 4rem 0.2rem 2rem 8rem;
+    }
+    .fashion-pic5{
+        padding: 2rem 0.2rem 2rem 4rem;
+    }
+    .fashion-pic6{
+        padding: 0rem 2rem 2rem 0rem;
+    }
+    
+}
+@media (max-width: 767px) {
+    .fashion-pic1{
+        padding: 3rem 14rem 1.5rem 0.5rem;
+    }
+    .fashion-pic2{
+        padding: 13rem 6rem 1.5rem 0rem;
+    }
+    .fashion-pic3{
+        padding: 3rem 4rem 1.5rem 0rem;
+    }
+    .fashion-pic4{
+        padding: 13rem 10rem 1.5rem 0rem;
+    }
+    .fashion-pic5{
+        padding: 3rem 4.5rem 1.5rem 0rem;
+    }
+    .fashion-pic6{
+        padding: 13rem 5rem 1.5rem 0rem;
+        
+    }
+}
+@media (max-width: 575px) {
+    .fashion-images{
+        display: flex;
+    }
+    .fashion-pic1{
+        padding: 2rem 18rem 0.5rem 0.5rem;
+    }
+    .fashion-pic2{
+        padding: 0rem 10rem 0rem 5.5rem;
+    }
+    .fashion-pic3{
+        padding: 0.5rem 10rem 1rem 10.5rem;
+    }
+    .fashion-pic4{
+        padding: 0rem 10rem 1rem 15.5rem;
+    }
+    .fashion-pic5{
+        padding: 0rem 10rem 1rem 20.5rem;
+    }
+    .fashion-pic6{
+        padding: 0rem 1rem 1rem 25.5rem;
+    }
+}
+@media (max-width: 991px) {
+    .portrait3{
+        margin-left: 13rem;
+        margin-right: 13rem;
+    }    
+}
+@media (max-width: 767px) {
+    .portrait1{
+        margin: 1.5rem 7rem 1.5rem 11rem;
+    }
+    .portrait2{
+        margin: 1.5rem 7rem 1.5rem 11rem;
+    }
+    .portrait3{
+        margin: 1.5rem 7rem 1.5rem 11rem;
+    }
+}
+@media (max-width: 575px) {
+    .portrait1{
+        margin-left: 6rem;
+    } 
+    .portrait2{
+        margin-left: 6rem;
+    }
+    .portrait3{
+        margin-left: 6rem;
+    }  
+    .portrait-button{
+        margin-right: 6rem;
+    } 
+}
+@media (max-width: 607px) {
+    .quirky{
+        margin-left: 2rem;
+    }    
+    .create{
+        margin-left: 4rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
